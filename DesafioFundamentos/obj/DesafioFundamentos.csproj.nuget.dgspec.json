@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleiton.souza\\Desktop\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
+    "C:\\Users\\Cleitinho\\Documents\\GitHub\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleiton.souza\\Desktop\\DesafioFundamentos\\DesafioFundamentos.csproj": {
+    "C:\\Users\\Cleitinho\\Documents\\GitHub\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleiton.souza\\Desktop\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\Cleitinho\\Documents\\GitHub\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "C:\\Users\\cleiton.souza\\Desktop\\DesafioFundamentos\\DesafioFundamentos.csproj",
-        "packagesPath": "C:\\Users\\cleiton.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleiton.souza\\Desktop\\DesafioFundamentos\\obj\\",
+        "projectPath": "C:\\Users\\Cleitinho\\Documents\\GitHub\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "packagesPath": "C:\\Users\\Cleitinho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cleitinho\\Documents\\GitHub\\DesafioFundamentos\\DesafioFundamentos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cleiton.souza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Cleitinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
